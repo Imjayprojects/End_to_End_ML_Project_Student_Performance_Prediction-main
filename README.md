@@ -45,8 +45,6 @@
 - statistics of data set
 - various categories present in the different categorical column
 
-## Exploratory Data Analysis (EDA)
-- More Description can be found in the [EDA](https://github.com/Revanth-Reddy-Pingala/End_to_End_ML_Project_Student_Performance_Prediction/blob/main/notebook/1%20.%20EDA%20STUDENT%20PERFORMANCE%20.ipynb) and [Modal Training](https://github.com/Revanth-Reddy-Pingala/End_to_End_ML_Project_Student_Performance_Prediction/blob/main/notebook/2.%20MODEL%20TRAINING.ipynb) files.
 
 ## Final Conclusions from EDA
 - Student's Performance is related with lunch, race, parental level education
@@ -71,7 +69,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Revanth-Reddy-Pingala/End_to_End_ML_Project_Student_Performance_Prediction
+  git clone https://github.com/Imjayprojects/End_to_End_ML_Project_Student_Performance_Prediction-main.git
 ```
 
 Go to the project directory
@@ -86,13 +84,4 @@ After setting up environment and installing packages Run
   python app.py
 ```
 
-## Screenshots
 
-<img width="1437" alt="Screenshot 2024-01-29 at 1 59 49 PM" src="https://github.com/Revanth-Reddy-Pingala/End_to_End_ML_Project_Student_Performance_Prediction/assets/125516124/6d62f2dc-70c7-41fd-a5cd-3a41959dc4de">
-
-<img width="1437" alt="Screenshot 2024-01-29 at 2 00 22 PM" src="https://github.com/Revanth-Reddy-Pingala/End_to_End_ML_Project_Student_Performance_Prediction/assets/125516124/e45e947d-6426-44c0-be01-5714ed5de9af">
-
-## Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revanth-reddy-pingala/)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://rrdatadiaries.blogspot.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/revanth_reddy.1459/)
